@@ -1,2 +1,2 @@
 # learn-next-js
-Project created as part of Learn Next.js tutorial
+This project was created as part of the [Learn Next.js tutorial](https://learnnextjs.com/basics/getting-started/setup).
